@@ -128,7 +128,7 @@ e.g., 인터넷 : TDP, UDP라는 두 가지 프로토콜을 가지고 있다.
 
 ## UDP와 TCP의 서비스 모델
 
-### 트랜스포트 계층 다중화(transport-layer mulitplexing)와 역다중화(demultiplexing)
+### 트랜스포트 계층 다중화(transport-layer multiplexing)와 역다중화(demultiplexing)
 
 > ‘호스트 대 호스트 전달’ → ‘프로세스 대 프로세스 전달’
 
